@@ -1,5 +1,4 @@
 # Wellness Grocery Inventory Analysis
-Unsupervised learning pipeline (PCA &amp; K-Means clustering) to analyze the nutritional composition of grocery inventory and identify product wellness gaps.
 
 # Authors
 - Michaya Mohamed 
@@ -8,7 +7,7 @@ Unsupervised learning pipeline (PCA &amp; K-Means clustering) to analyze the nut
 - Gio De La Sancha-Carrisoza
 
 # Project Overview
-This project analyzes the nutritional composition of grocery inventory items using unsupervised machine learning techniques. The goal is to identify nutritional product segments, discover inventory patterns, and evaluate whether the inventory aligns with a wellness-focused grocery store mission.
+This project analyzes the nutritional composition of grocery inventory items using unsupervised machine learning techniques. The goal is to identify nutritional product segments, discover inventory patterns, and evaluate whether the inventory aligns with a wellness focused grocery store mission.
 
 # Objectives
 - Perform exploratory data analysis (EDA)
