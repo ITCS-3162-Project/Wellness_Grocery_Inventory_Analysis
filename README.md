@@ -1,6 +1,5 @@
 # Wellness Grocery Inventory Analysis
-
-# Authors
+**Authors**
 - Michaya Mohamed 
 - Ana Jackson
 - Robert Shea
