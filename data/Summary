@@ -1,0 +1,29 @@
+What percentage of inventory falls into each cluster? 
+
+                         Count	                        Percentage	            
+cluster_0	               3983	                          53.729934%
+cluster_1	               1567	                          21.138540%
+cluster_2	                470	                           6.340213%
+cluster_3	                461		                         6.218805%
+cluster_4                 453                            6.110886%
+cluster_5                 266                            3.588291%
+cluster_6                 213                            2.873331%
+
+Which grocery categories appear in each cluster?
+
+cluster 0	OTHER / BASE INGREDIENTS	
+cluster 1	Proteins & Seafood	
+cluster 2	Processed & Fast Foods	
+cluster 3	Whole Foods & Produce	
+cluster 4	Sweets, Treats & Sugars	
+cluster 5	Baby & Specialized
+cluster 6	Dairy & Alternatives	
+
+Which category has the most nutritional diversity?
+
+Excluding the generic placeholder NO CATEGORY (which ranks first at 6.99 due to being a catch-all group for highly varied items), 
+the category with the most nutritional diversity is TEA (Score: 5.77), closely followed by COFFEE (Score: 5.61).
+
+Is This Really A Wellness Store?
+
+Combining the Nutritional Diversity metrics with our Wellness Clustering results, we can definitively answer: No, this is not a wellness store.
